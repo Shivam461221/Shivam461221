@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Lowanshi.
 - 👀 I’m a Software Developer
-- 🌱 I’m currently learning Spring and SpringBoot framework
-- 💞️ I’m looking to work in Java Projects
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to work in more Projects
 - 📫 shivamlowanshi@gmail.com
