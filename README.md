@@ -2,4 +2,4 @@
 - 👀 I’m a Software Developer
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to work in more Projects
-- 📫 shivamlowanshi@gmail.com
+- 📫 shivamlowanshi28@gmail.com
